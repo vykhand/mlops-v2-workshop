@@ -1,6 +1,14 @@
 # Azure MLOps (v2) Training
 
-This repo is practice repo for Community IP MLOps In a Day workshop. The goal is to have the participants to build a traing and a deployment pipeline
+This repository is a fork of multiple repositories serving the training purposes for the "Responsible AI MLOPS" workshop.
+
+The sources of this repo are:
+
+1. [MLOps in a Day workshop](https://github.com/Azure/mlops-v2-workshop)
+1. [Responsible AI / MLOps training from BUILD](https://github.com/ruyakubu/BUILD-AzureML-workshop/blob/main/src/train.py)
+1. [MLOPS V2 Repo](https://github.com/Azure/mlops-v2)
+
+
 ## Repo structure 
 
 ```bash
