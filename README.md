@@ -8,6 +8,13 @@ The sources of this repo are:
 1. [Responsible AI / MLOps training from BUILD](https://github.com/ruyakubu/BUILD-AzureML-workshop/blob/main/src/train.py)
 1. [MLOPS V2 Repo](https://github.com/Azure/mlops-v2)
 
+## Hackathon Plan
+
+1. Review the presentation [Lab overview](./Lab_Overview.pdf)
+2. Run the notebooks in notebooks folder, completing as necessary
+3. Review and run the notebooks in ml_pipelines/sdk
+4. Deploy the pipelines in github following the [README-GH](./ci-cd/README-GH.md)
+5. (Stretch assignment) Review the [MLOPS V2 Repo](https://github.com/Azure/mlops-v2) and checkout one of the project templates
 
 ## Repo structure 
 
